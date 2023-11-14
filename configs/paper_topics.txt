@@ -16,6 +16,9 @@
  6. Studies 'scaling laws' in the context of neural networks. Scaling laws refer to the very clear power-law relationship between the size or computational power used to train a model and the performance of that model.
     - Relevant: theoretical or conceptual explanation behind scaling laws for language models.
     - Not relevant: papers that have experiments at different model scales (but do not explicitly fit a scaling law) or papers that mention scaling laws, but the scaling laws are not the central subject of the paper
+ 7. Shows an interesting findings in multilingual language models or evaluation in cross-lingual transfer set up.
+   - Relevant: empirical findings on transferring across typologically distant languages.
+   - Not relevant: papers without adapating or further tuning and experiments on only using the models out-of-the-box.
 
  In suggesting papers to your friend, remember that he enjoys papers on statistical machine learning, and generative modeling in natural language processing.
  Your friend also likes learning about surprising empirical results in language models, as well as clever statistical tricks.
